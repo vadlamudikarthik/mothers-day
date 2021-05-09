@@ -1,0 +1,25 @@
+body{
+	background-color: aquamarine;
+	 
+}
+h1{
+	text-align: center;
+}
+.picture{
+	display: flex;
+	quotes: inherit;
+}
+.style-section{
+	height: 100px;
+	width: 100px;
+	margin: 10px;
+	padding-top: 100px;
+}
+img{
+	height: 500px;
+	width: 500px;
+	margin: 10px;
+}
+.meou{
+	text-align: center;
+}
